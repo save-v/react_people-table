@@ -22,6 +22,6 @@ npm install
 
 • Run the project locally:
 
-• Start the project by running the following command:
+Start the project by running the following command:
 
 npm start
