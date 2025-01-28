@@ -12,7 +12,7 @@ git clone https://github.com/save-v/react_people-table.git
 
 • Open the cloned project in your development environment.
 
-• Install dependencies:
+Install dependencies:
 
 • Make sure you have Node.js installed. If not, download and install it from Node.js official website.
 
